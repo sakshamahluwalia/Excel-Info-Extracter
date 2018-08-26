@@ -10,7 +10,7 @@ is present in csv format.
 
 ### Prerequisites
 
-A computer with python3, additional frameworks such as, "xlrd", "tkinter"
+A computer with python3, additional frameworks such as, "xlrd", "tkinter". You will need to get the folder path contaning the, "Model", "View" and the "Controller" folders and add it in, "HomePage.py" before running the application.
 
 ### How to Run
 
