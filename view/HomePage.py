@@ -1,6 +1,6 @@
 import sys
 from tkinter import *
-sys.path.append('/home/saksama/Documents/Applications/PostGrad/')
+sys.path.append('/home/saksama/Desktop') \\ add the folder path here.
 from Controller import Controller
 
 root = Tk()
